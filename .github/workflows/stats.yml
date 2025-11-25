@@ -1,0 +1,32 @@
+name: Generate GitHub Stats SVG
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate GitHub Stats Card
+        uses: 'anuraghazra/github-readme-stats@master'
+        with:
+          username: ${{ github.repository_owner }}
+          # Theme and color matching your request (White background)
+          bg_color: ffffff
+          title_color: 000000
+          text_color: 000000
+          icon_color: 000000
+          show_icons: true
+          locale: en
+          # Output file will be saved as 'github-stats.svg'
+          output: github-stats.svg
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Automated: Update GitHub Stats SVG"
+          files: github-stats.svg
