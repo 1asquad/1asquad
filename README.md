@@ -8,20 +8,21 @@
     <img src="https://img.shields.io/badge/CRYPTO_PROJECTS-100000?style=for-the-badge&logo=github&logoColor=white" alt="Crypto Projects"/>
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=1asquad&style=for-the-badge&label=PROFILE+VIEWS&color=brightgreen" alt="Profile Views"/>
-
+ <img src="https://komarev.com/ghpvc/?username=1asquad&style=for-the-badge&label=PROFILE+VIEWS&color=brightgreen" alt="Profile Views"/>
 </div>
+
+<br/>
 
 ## 💫 About Me
 
-I'm a Full-stack Blockchain Architect & CTO with **6+ years** of experience shipping production-grade crypto infrastructure. Standing at the intersection of **DeFi** and **AI**, I leverage **intelligent automation** and emerging blockchain standards to build smarter, modular protocols.
+I'm a Full-stack Blockchain Architect & CTO with 6+ years of experience shipping production-grade crypto infrastructure. Standing at the intersection of DeFi and AI, I leverage intelligent automation and emerging blockchain standards to build smarter, modular protocols.
 
-- 🔭 **Currently building:** Next-gen institutional blockchain solutions & **AI-driven architectures**
-- 💼 **Previously:** Led engineering teams delivering **$XXm+ TVL protocols**
-- ⚡ **Passionate about:** **Zero-knowledge systems**, modular scaling, and the fusion of **AI + Web3**
-- 💬 **Ask me about:** L2/L3 design, **AI agents**, rollup economics, account abstraction, and **automation workflows**
-- 🌍 **Location:** Based in **Benin**, shipping globally
+- 🔭 **Currently building:** Next-gen institutional blockchain solutions & AI-driven architectures
+- 💼 **Previously:** Led engineering teams delivering $XXm+ TVL protocols
+- ⚡ **Passionate about:** Zero-knowledge systems, modular scaling, and the fusion of AI + Web3
+- 💬 **Ask me about:** L2/L3 design, AI agents, rollup economics, account abstraction, and automation workflows
 - 📫 **How to reach me:** [Email 📧](mailto:0xlasquad@email.com)
+
 ---
 
 ## 🛠️ My Tech Stack
@@ -56,7 +57,6 @@ I'm a Full-stack Blockchain Architect & CTO with **6+ years** of experience ship
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/1asquad/1asquad/main/github-stats.svg" alt="1asquad GitHub Stats" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/1asquad/1asquad/main/github-top-langs.svg" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1asquad&show_icons=true&theme=dark" height="180" alt="1asquad GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1asquad&layout=compact&theme=dark" height="180" alt="Top Langs" />
 </div>
