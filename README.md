@@ -1,4 +1,8 @@
 <div align="center">
+  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2096F3&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Lasquad;Blockchain+Architect+%26+CTO;Code.+Innovate.+Evolve." alt="Typing SVG" />
+</div>
 
   <a href="https://twitter.com/1asquad">
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
