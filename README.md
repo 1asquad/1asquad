@@ -23,7 +23,7 @@ I'm a Full-stack Blockchain Architect & CTO with 6+ years of experience shipping
 
 - 🔭 **Currently building:** Next-gen institutional blockchain solutions & AI-driven architectures
 - 💼 **Previously:** Led engineering teams delivering $XXm+ TVL protocols
-- ⚡ **Passionate about:** Zero-knowledge systems, modular scaling, and the fusion of AI + Web3
+- ⚡ **Passionate about:** Zero-knowledge systems and the fusion of AI + Web3
 - 💬 **Ask me about:** L2/L3 design, AI agents, rollup economics, account abstraction, and automation workflows
 - 📫 **How to reach me:** [Email 📧](mailto:0xlasquad@email.com)
 
